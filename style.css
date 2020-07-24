@@ -39,10 +39,6 @@ html, body {
   font-weight: 500;
 }
 
-.profile-img {
-  border: 10px solid #555;
-}
-
 .list-text li {
   font-weight: bold;
   width: 90%;
